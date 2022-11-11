@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T14:49:09.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="naMsSaepYsTRIMNGrng7" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T14:52:38.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WvnfU6Bx2WA7FYAlDPN2" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1395" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1099" dy="153" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -511,10 +511,10 @@
         <mxCell id="nzYGWM5v_-n4lpJx9gkC-4" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#5AA9E6;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="115.71000000000004" y="492.57000000000005" width="25.62" height="17.18" as="geometry" />
         </mxCell>
-        <mxCell id="nzYGWM5v_-n4lpJx9gkC-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A0522D;entryX=0.022;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nzYGWM5v_-n4lpJx9gkC-3" edge="1" target="tL17GhLCMj96Ze86oTwv-164">
+        <mxCell id="nzYGWM5v_-n4lpJx9gkC-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A0522D;entryX=0.023;entryY=0.912;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nzYGWM5v_-n4lpJx9gkC-3" edge="1" target="tL17GhLCMj96Ze86oTwv-164">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="470" as="sourcePoint" />
-            <mxPoint x="160" y="420" as="targetPoint" />
+            <mxPoint x="130" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nzYGWM5v_-n4lpJx9gkC-7" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;entryX=0.133;entryY=-0.117;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="nzYGWM5v_-n4lpJx9gkC-1" edge="1">
