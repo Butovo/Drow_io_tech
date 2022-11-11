@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T14:22:13.165Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SVb1SFwwahbl0Sy1Ilz9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T14:23:05.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2mwVZCCL36MRK7kQSPM5" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2857" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1639" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -485,26 +485,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-164" value="Коллектор 18 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6D1F00;fillColor=#A0522D;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="100" y="410" width="1020" height="10" as="geometry" />
+          <mxGeometry x="100" y="410" width="1160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-165" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="tL17GhLCMj96Ze86oTwv-164" edge="1">
+        <mxCell id="tL17GhLCMj96Ze86oTwv-165" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=0.88;entryY=-0.286;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="tL17GhLCMj96Ze86oTwv-164" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1120" y="239.67" as="sourcePoint" />
             <mxPoint x="1143.52" y="619.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-167" value="АЗОТ" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=10;fontColor=#000000;fillColor=#A0522D;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="297.5" width="60" height="60" as="geometry" />
+          <mxGeometry x="1370" y="293.75" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-168" value="Химпром" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;fontSize=10;fontColor=#000000;fillColor=#A0522D;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="1370" y="386.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-169" value="Собственные нужды" style="html=1;aspect=fixed;strokeColor=#000000;fontSize=10;fontColor=#000000;fillColor=#A0522D;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="1270" y="480" width="60" height="60" as="geometry" />
+          <mxGeometry x="1370" y="476.25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-172" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="tL17GhLCMj96Ze86oTwv-167" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="420" as="sourcePoint" />
+            <mxPoint x="1260" y="410" as="sourcePoint" />
             <mxPoint x="1170" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -516,7 +516,7 @@
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-174" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="tL17GhLCMj96Ze86oTwv-169" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1120" y="420" as="sourcePoint" />
+            <mxPoint x="1260" y="420" as="sourcePoint" />
             <mxPoint x="1290" y="347.4999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
