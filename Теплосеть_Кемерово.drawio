@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T14:58:27.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="k9Nyd4zn8hUXZqAwX8pg" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T14:58:49.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="a-Ysx6neaBiGfkx8NrXf" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1300" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1807" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -660,9 +660,9 @@
         <mxCell id="5O0TgNltETR0nUimpYTd-49" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#5AA9E6;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="505.71000000000004" y="658.45" width="25.62" height="17.18" as="geometry" />
         </mxCell>
-        <mxCell id="5O0TgNltETR0nUimpYTd-50" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;entryX=0.023;entryY=0.912;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5O0TgNltETR0nUimpYTd-48">
+        <mxCell id="5O0TgNltETR0nUimpYTd-50" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#0000FF;entryX=0.023;entryY=0.912;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5O0TgNltETR0nUimpYTd-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="635.88" as="sourcePoint" />
+            <mxPoint x="519" y="640" as="sourcePoint" />
             <mxPoint x="518.98" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -673,7 +673,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5O0TgNltETR0nUimpYTd-52" value="РУ&lt;br style=&quot;font-size: 10px;&quot;&gt;13/6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="445" y="644.7099999999999" width="40" height="40" as="geometry" />
+          <mxGeometry x="465.71" y="640.8799999999999" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
