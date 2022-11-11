@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T14:14:38.632Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="hnrahouT8QKwc-8VUV7x" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T14:15:13.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WinblGawa2efIznAb6Vp" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2248" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -549,6 +549,18 @@
         </mxCell>
         <mxCell id="5O0TgNltETR0nUimpYTd-3" value="АЗОТ" style="html=1;aspect=fixed;strokeColor=#000000;fontSize=10;fontColor=#FFFFFF;fillColor=#0000FF;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-60" y="515" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5O0TgNltETR0nUimpYTd-4" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;entryX=1.067;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="nzYGWM5v_-n4lpJx9gkC-1" target="5O0TgNltETR0nUimpYTd-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="760" as="sourcePoint" />
+            <mxPoint x="130" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5O0TgNltETR0nUimpYTd-5" value="" style="endArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="nzYGWM5v_-n4lpJx9gkC-1" target="5O0TgNltETR0nUimpYTd-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80.00000000001" y="585" as="sourcePoint" />
+            <mxPoint x="14.019999999999982" y="562.02" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
