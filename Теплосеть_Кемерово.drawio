@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T14:42:23.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="c-inmdwez-p5W609cgU4" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T14:43:02.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="EfnGKn3eC6nyZOXb2gmQ" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2857" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1639" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -586,12 +586,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5O0TgNltETR0nUimpYTd-24" value="Р-3,15-1,28/0,2П привод ПТН-16" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#000000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="695" width="80" height="77.5" as="geometry" />
+          <mxGeometry x="-20" y="670" width="80" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="5O0TgNltETR0nUimpYTd-25" value="" style="endArrow=classic;html=1;rounded=0;shadow=1;sketch=0;strokeColor=#0000FF;fontColor=#FFFFFF;jumpStyle=arc;jumpSize=6;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.063;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="5O0TgNltETR0nUimpYTd-24">
+        <mxCell id="5O0TgNltETR0nUimpYTd-25" value="" style="endArrow=classic;html=1;rounded=0;shadow=1;sketch=0;strokeColor=#0000FF;fontColor=#FFFFFF;jumpStyle=arc;jumpSize=6;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.016;exitY=0.929;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="nzYGWM5v_-n4lpJx9gkC-1" target="5O0TgNltETR0nUimpYTd-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-19.3599999999999" y="585" as="sourcePoint" />
-            <mxPoint x="30" y="602" as="targetPoint" />
+            <mxPoint x="-19" y="590" as="sourcePoint" />
+            <mxPoint x="30" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5O0TgNltETR0nUimpYTd-27" value="Коллектор 5-9 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6D1F00;fillColor=#82E2FF;fontColor=#000000;" vertex="1" parent="1">
