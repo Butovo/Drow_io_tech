@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T14:24:45.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yfdfJb2R6CqEAv57ffJt" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T14:25:26.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="VNr-59b803q5tmc2I5JI" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1639" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1300" dy="265" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,7 +529,7 @@
         <mxCell id="nzYGWM5v_-n4lpJx9gkC-4" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#5AA9E6;fillColor=#FFFFFF;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="115.71000000000004" y="492.57000000000005" width="25.62" height="17.18" as="geometry" />
         </mxCell>
-        <mxCell id="nzYGWM5v_-n4lpJx9gkC-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A0522D;entryX=0.028;entryY=1.108;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nzYGWM5v_-n4lpJx9gkC-3" edge="1" target="tL17GhLCMj96Ze86oTwv-164">
+        <mxCell id="nzYGWM5v_-n4lpJx9gkC-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#A0522D;entryX=0.025;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nzYGWM5v_-n4lpJx9gkC-3" edge="1" target="tL17GhLCMj96Ze86oTwv-164">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="470" as="sourcePoint" />
             <mxPoint x="160" y="420" as="targetPoint" />
