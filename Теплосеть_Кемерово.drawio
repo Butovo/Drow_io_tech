@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T12:45:46.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gJzsGtleBQ3kh1-gZYAb" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T12:46:56.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="99IEgLTDnKabQHpKFlIR" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="331" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="2011" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,8 +304,11 @@
         <mxCell id="tL17GhLCMj96Ze86oTwv-73" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFE45E;jumpStyle=arc;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tL17GhLCMj96Ze86oTwv-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="87.19" y="240" as="sourcePoint" />
-            <mxPoint x="86.88999999999999" y="280" as="targetPoint" />
+            <mxPoint x="87" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tL17GhLCMj96Ze86oTwv-74" value="Коллектор 29 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="-114.44" y="270" width="220" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
