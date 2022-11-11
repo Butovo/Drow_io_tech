@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T13:15:43.435Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yRZRKYFbxFSQ90ymgdMc" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T13:16:39.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iZNIrmpzn5dkas1fF2Xt" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2248" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="1503" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,26 +364,8 @@
             <mxPoint x="958.3199999999997" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-108" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="290" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-109" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="120" y="290" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-110" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-111" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="470" y="290" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-112" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="610" y="290" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-113" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="746" y="290" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-114" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#B20000;fontSize=10;fontColor=#000000;fillColor=#FFFFFF;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="890" y="290" width="80" height="60" as="geometry" />
+          <mxGeometry x="881.25" y="281.25" width="80" height="77.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
