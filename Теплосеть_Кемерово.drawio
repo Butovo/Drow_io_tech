@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T13:43:02.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TIBPxzipjd10G4qnvARa" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T13:43:31.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I5vZzmeMp-kpTBh4MyVu" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2499" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" math="0" shadow="1">
       <root>
@@ -502,10 +502,22 @@
         <mxCell id="tL17GhLCMj96Ze86oTwv-169" value="Собственные нужды" style="html=1;aspect=fixed;strokeColor=#000000;fontSize=10;fontColor=#000000;fillColor=#A0522D;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1270" y="480" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-171" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#B3B3B3;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;" edge="1" parent="1">
+        <mxCell id="tL17GhLCMj96Ze86oTwv-172" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tL17GhLCMj96Ze86oTwv-167">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1131.33" y="550" as="sourcePoint" />
-            <mxPoint x="1181.33" y="500" as="targetPoint" />
+            <mxPoint x="1120" y="420" as="sourcePoint" />
+            <mxPoint x="1170" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tL17GhLCMj96Ze86oTwv-173" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tL17GhLCMj96Ze86oTwv-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="420" as="sourcePoint" />
+            <mxPoint x="1280" y="337.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tL17GhLCMj96Ze86oTwv-174" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#A0522D;strokeWidth=1;fontSize=10;fontColor=#000000;endSize=6;fillColor=#FFE45E;jumpStyle=arc;jumpSize=6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="tL17GhLCMj96Ze86oTwv-169">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="420" as="sourcePoint" />
+            <mxPoint x="1290" y="347.4999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
