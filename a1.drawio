@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T14:53:22.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qTC3PWiw6j0BYNAzPCqJ" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T14:56:31.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="n7rtTVmUXumNpEdQYGQH" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="4251" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
+    <mxGraphModel dx="4885" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,17 +31,11 @@
         <mxCell id="tL17GhLCMj96Ze86oTwv-10" value="КА №16 ТП-87" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;fillColor=#FFE45E;strokeColor=#000000;fontColor=#5AA9E6;" parent="1" vertex="1">
           <mxGeometry x="920" y="80" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-11" value="Коллектор 140 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-1290" y="200" width="1290" height="160" as="geometry" />
+        <mxCell id="tL17GhLCMj96Ze86oTwv-11" value="Коллектор 140 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=45;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1582.78" y="465" width="1770" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-12" value="Коллектор 140 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=14;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="360" y="200" width="2370" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-13" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#B20000;rounded=0;fillColor=#FFE45E;fontColor=#5AA9E6;" parent="1" vertex="1">
-          <mxGeometry y="200" width="150" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="tL17GhLCMj96Ze86oTwv-14" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-180;strokeColor=#B20000;rounded=0;fillColor=#FFE45E;fontColor=#5AA9E6;" parent="1" vertex="1">
-          <mxGeometry x="310" y="170" width="10" height="10" as="geometry" />
+        <mxCell id="tL17GhLCMj96Ze86oTwv-12" value="Коллектор 140 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=45;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570.12" y="465" width="2370" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-17" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#5AA9E6;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1890,8 +1884,11 @@
             <mxPoint x="2021.45" y="2521.29" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FaHK6P66umQi0VHwDP_Z-5" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#B20000;rounded=0;fillColor=#FFE45E;fontColor=#5AA9E6;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="210" y="204.67" width="150" height="154.67" as="geometry" />
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-6" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=45;fillColor=#FFE45E;strokeColor=#B20000;" vertex="1" parent="1">
+          <mxGeometry x="187.22" y="465" width="191.45" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-7" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=45;fillColor=#FFE45E;strokeColor=#B20000;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="378.67" y="465" width="191.45" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
