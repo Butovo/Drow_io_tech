@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T15:13:57.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BXaPhN8TgdveyoaJOqzN" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T15:14:21.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="9GypDCL_3Rg3ce-mBm9R" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="5538" dy="1219" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
       <root>
@@ -1915,6 +1915,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1899.4099999999987" y="476.32999999999976" as="sourcePoint" />
             <mxPoint x="1899.45362" y="573.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-38" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#5AA9E6;strokeWidth=4;entryX=0.121;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2419.409999999999" y="479.9999999999997" as="sourcePoint" />
+            <mxPoint x="2419.4536200000002" y="576.8000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-39" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e51400;strokeColor=#B20000;fontColor=#5AA9E6;strokeWidth=4;entryX=0.121;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2939.409999999999" y="476.3299999999997" as="sourcePoint" />
+            <mxPoint x="2939.4536200000002" y="573.1300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
