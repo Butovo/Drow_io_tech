@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T08:35:42.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="spJPH5k-IICOi5HODpAa" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T08:38:58.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="LGFbyzfzT6_FT3y30ctj" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="6017" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
+    <mxGraphModel dx="9640" dy="3917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2004,6 +2004,9 @@
             <mxPoint x="-2680" y="5948" as="sourcePoint" />
             <mxPoint x="850" y="5948" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-296" value="ХОчВ на&lt;br&gt;подпитку ТС" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;fontColor=#000000;strokeWidth=5;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="-3280" y="4687.14" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
