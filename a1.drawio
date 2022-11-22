@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T12:14:50.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A4e6dbyM6Ly5_5do6kwh" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T12:34:11.269Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="6wxY_DzYzIrouyKD_RtT" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="10908" dy="4144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
+    <mxGraphModel dx="19280" dy="6907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tL17GhLCMj96Ze86oTwv-11" value="Коллектор 140 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=45;fontStyle=1;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="-2290" y="633.13" width="1500" height="160" as="geometry" />
+          <mxGeometry x="-6110" y="640" width="1500" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-12" value="Коллектор 140 ата" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#B20000;fillColor=#FFE45E;fontColor=#5AA9E6;fontSize=45;fontStyle=1;strokeWidth=5;" parent="1" vertex="1">
-          <mxGeometry x="-407.1" y="633.13" width="3557.1" height="160" as="geometry" />
+          <mxGeometry x="3280" y="633.13" width="3557.1" height="160" as="geometry" />
         </mxCell>
         <mxCell id="tL17GhLCMj96Ze86oTwv-26" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FF6392;fillColor=#FFE45E;fontColor=#5AA9E6;strokeWidth=10;fontSize=45;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
