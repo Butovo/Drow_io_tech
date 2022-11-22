@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T10:22:35.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Bg35FVXYuTpnH75mBoOG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T10:24:23.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nGTHEivqZXljovaKVtP8" version="20.5.3" type="github">
   <diagram name="Турбины" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="12810" dy="5180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
+    <mxGraphModel dx="8055" dy="2590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1713,19 +1713,19 @@
         </mxCell>
         <mxCell id="FaHK6P66umQi0VHwDP_Z-320" value="" style="endArrow=none;html=1;rounded=0;shadow=0;dashed=1;strokeColor=#FF3333;strokeWidth=10;fontSize=14;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2830" y="6570" as="sourcePoint" />
+            <mxPoint x="2830" y="5340" as="sourcePoint" />
             <mxPoint x="2830" y="1550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaHK6P66umQi0VHwDP_Z-321" value="" style="endArrow=none;html=1;rounded=0;shadow=0;dashed=1;strokeColor=#FF3333;strokeWidth=10;fontSize=14;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2780" y="6610" as="sourcePoint" />
+            <mxPoint x="2780" y="5270" as="sourcePoint" />
             <mxPoint x="2780" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FaHK6P66umQi0VHwDP_Z-322" value="" style="endArrow=none;html=1;rounded=0;shadow=0;dashed=1;strokeColor=#FF3333;strokeWidth=10;fontSize=14;jumpStyle=arc;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2722.85" y="6650" as="sourcePoint" />
+            <mxPoint x="2723" y="5750" as="sourcePoint" />
             <mxPoint x="2722.85" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -2165,6 +2165,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="5440" as="sourcePoint" />
             <mxPoint x="3080" y="5440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-416" value="" style="endArrow=none;html=1;rounded=0;shadow=0;dashed=1;strokeColor=#FF3333;strokeWidth=10;fontSize=14;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1190" y="5270" as="sourcePoint" />
+            <mxPoint x="2806.1100000000006" y="5270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FaHK6P66umQi0VHwDP_Z-417" value="" style="endArrow=none;html=1;rounded=0;shadow=0;dashed=1;strokeColor=#FF3333;strokeWidth=10;fontSize=14;jumpStyle=arc;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1900" y="5340" as="sourcePoint" />
+            <mxPoint x="2831.1100000000006" y="5340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
